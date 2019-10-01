@@ -10,10 +10,6 @@ the assembler, disassembler were created by [@k-off](https://github.com/k-off/)
 
 ![alt text](https://repository-images.githubusercontent.com/205827033/21423900-e07e-11e9-86dc-5655452547fa)
 
-[SUBJECT](/COREWAR_SUBJECT.pdf)
-
-[RESOURCES](/resources/)
-
 [Wikipedia](https://en.wikipedia.org/wiki/Core_War)
 
 [Championship 2018 (youtube)](https://www.youtube.com/watch?v=R-OkYyzp-DI)
