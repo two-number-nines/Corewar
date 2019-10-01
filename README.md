@@ -18,7 +18,7 @@ the assembler, disassembler were created by [@k-off](https://github.com/k-off/)
 
 This project has a guide.
 
-You can read it at the [wiki-pages](../../wiki/).
+You can read it at https://github.com/k-off/Corewar/wiki
 
 ## Project Structure
 
